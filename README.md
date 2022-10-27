@@ -7,4 +7,5 @@
 - 👀 I’m interested in Tech & Anime
 - 📫 How to reach me: taha.chaghtai.dev@gmail.com
 
-# A young and promising Web Developer, specializing in front end development who has experienced with all stages of the development cycle for dynamic web projects
+
+A young and promising Web Developer, specializing in front end development who has experienced with all stages of the development cycle for dynamic web projects
