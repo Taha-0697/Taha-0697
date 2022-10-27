@@ -8,4 +8,4 @@ A young and promising Web Developer, specializing in front end development who h
 - 🔔 based in Dubai, UAE
 - 👀 I’m interested in Tech
 - 📫 How to reach me: taha.chaghtai.dev@gmail.com 
-- 📌 Linkedin: @taha-chaghtai
+- 📌 Linkedin: https://www.linkedin.com/in/taha-chaghtai
