@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="100"/>
+</div>
+
 ### Hi I'm @Taha-0697
 
 A young and promising Web Developer, specializing in front end development who has experienced with all stages of the development cycle for dynamic web projects. I am well-versed in numerous programming languages including JavaScript, React Js, Next Js, WordPress, Asp.net core Web Api and others.
