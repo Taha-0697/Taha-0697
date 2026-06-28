@@ -1,78 +1,112 @@
-<h3 align="center" title="Welcome">Hey 👋, I'm Taha Chaghtai!</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fab340&center=true&vCenter=true&width=900&height=110&lines=Web+Developer;Front-End+Expert;JavaScript+Specialist;React+and+Angular+Enthusiast;Back-End+Developer;.NET+Core+Web+API+Engineer;Node.js+and+PHP+Developer;Full-Stack+Technologist;SQL+and+Database+Manager)](https://git.io/typing-svg)
-
----
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Taha-0697&color=blueviolet" alt="Profile_view">
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="programmer life" width="300"/>
-</div>
-
----
-
-<br />
-
-A young and promising Web Developer specializing in front-end development with experience in all stages of the development cycle for dynamic web projects. I am well-versed in numerous programming languages, including JavaScript, React.js, Next.js, WordPress, ASP.NET Core Web API, and others.
-
-### 🚀 Technologies and Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".net" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45" style="margin-right: 10px;" />
-</p>
-
-### 🌱 About Me
-
-- 🔭 I’m currently working on Javascript Frameworks and back-end technologies.
-- 🌱 I’m constantly learning new languages and improving my skills.
-- 💞️ I’m looking to collaborate on visually appealing solutions.
-- 🔔 Based in Muscat, Oman.
-- 👀 I’m interested in the latest tech trends and innovations.
-- 📫 How to reach me: [taha.chaghtai.dev@gmail.com](mailto:taha.chaghtai.dev@gmail.com)
-- 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/taha-chaghtai)
-
-<br />
-
-### 📊 GitHub Stats
+# Taha Chaghtai
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-0697&theme=great-gatsby&layout=compact&card_width=445" alt="Top Languages" style="margin: 0 10px;" />
-</div>
 
-<br />
+### Full-Stack Web Developer | Front-End Specialist | JavaScript Expert
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taha-0697&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true" alt="Taha's GitHub stats" style="margin: 0 10px;" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-chaghtai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.chaghtai.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Taha-0697)
 
-<br />
+📍 Based in Muscat, Oman
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taha-0697&theme=dark" alt="Taha's GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Taha-0697/count.svg" alt="Profile Counter" />
 </div>
 
 ---
-<br />
+
+## 👨‍💻 About Me
+
+A dedicated full-stack web developer with proven expertise in designing and developing dynamic web applications. I bring a strong foundation in front-end technologies combined with robust back-end capabilities. My passion lies in creating elegant, user-centric solutions that balance aesthetics with functionality.
+
+**Key Strengths:**
+- ✨ Clean, maintainable, and scalable code
+- 🎨 Modern UI/UX implementation
+- 🔧 Full development lifecycle management
+- 📚 Continuous learning and adaptation to new technologies
+- 🤝 Collaborative problem-solving
+
+---
+
+## 🛠️ Technical Expertise
+
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
 <div align="center">
-  <h3>⭐️ Thanks for visiting! Feel free to explore and connect. Let's build something amazing together! ⭐️</h3>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taha-0697&show_icons=true&theme=nord&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=79C0FF&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Taha-0697)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-0697&theme=nord&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&hide_border=true&layout=compact)](https://github.com/Taha-0697)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taha-0697&theme=dark&background=0D1117&ring=58A6FF&fire=FF7E32&currStreakNum=C9D1D9&currStreakLabel=58A6FF&dates=C9D1D9)](https://github.com/Taha-0697)
+
 </div>
 
-<br />
+---
 
+## 💼 What I Offer
 
-⭐️ From [Taha Chaghtai](https://github.com/Taha-0697)
+| Expertise | Description |
+|-----------|-------------|
+| **Frontend Development** | Responsive, accessible, and performant user interfaces using modern frameworks |
+| **Backend Services** | Robust APIs and server-side logic with .NET Core, Node.js, and PHP |
+| **Database Design** | Efficient data modeling and optimization using SQL and NoSQL databases |
+| **Web Architecture** | Full-stack solutions with scalability and maintainability in mind |
+| **UI/UX Implementation** | Translating designs into interactive, user-friendly experiences |
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Advancing expertise in **JavaScript frameworks** (React, Next.js, Angular)
+- 🔐 Exploring **modern web APIs** and **microservices** architecture
+- 📱 Building **responsive** and **progressive web applications**
+- 🧪 Mastering **testing frameworks** and **DevOps practices**
+- 🌍 Staying updated with **latest web standards** and **best practices**
+
+---
+
+## 📞 Let's Connect
+
+I'm always interested in:
+- 🤝 Collaborating on innovative projects
+- 💡 Discussing web development trends and technologies
+- 🎨 Creating visually appealing and functional solutions
+- 📖 Sharing knowledge and learning from the community
+
+**Feel free to reach out:**
+
+📧 **Email:** [taha.chaghtai.dev@gmail.com](mailto:taha.chaghtai.dev@gmail.com)  
+💼 **LinkedIn:** [@taha-chaghtai](https://www.linkedin.com/in/taha-chaghtai)  
+💻 **GitHub:** [@Taha-0697](https://github.com/Taha-0697)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting! Let's build something extraordinary together!
+
+</div>
